@@ -1,0 +1,5 @@
+outs:
+- md5: c5d646a41c4798965add405cffd5027e
+  size: 157338
+  hash: md5
+  path: iris_model.pkl

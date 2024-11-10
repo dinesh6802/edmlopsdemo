@@ -1,0 +1,6 @@
+outs:
+- md5: 1c01f0708adcf6abcf51e01957d3d027.dir
+  size: 77484662
+  nfiles: 362
+  hash: md5
+  path: human_dataset
